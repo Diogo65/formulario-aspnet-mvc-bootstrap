@@ -1,0 +1,230 @@
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csprojResolveAssemblyReference.cache
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\csc.exe
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\csc.exe.config
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\csc.rsp
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\csi.exe
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\csi.rsp
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.AppContext.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\vbc.exe
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\vbc.exe.config
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\vbc.rsp
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll.config
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\FormularioAspNetMvc.pdb
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\EntityFramework.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\EntityFramework.SqlServer.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Helpers.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Mvc.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Razor.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\EntityFramework.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\EntityFramework.SqlServer.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Razor.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Helpers.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\System.Web.Mvc.xml
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.dll
+c:\users\gladstone\documents\visual studio 2017\Projects\FormularioAspNetMvc\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.pdb
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.exe
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.exe.config
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.rsp
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\csi.exe
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\csi.rsp
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.AppContext.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.exe
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.exe.config
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.rsp
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll.config
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.pdb
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Helpers.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Mvc.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Razor.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Razor.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Helpers.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\System.Web.Mvc.xml
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.dll
+C:\Users\Joel\Downloads\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.pdb
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.exe
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.exe.config
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\csc.rsp
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\csi.exe
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\csi.rsp
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.AppContext.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.exe
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.exe.config
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\vbc.rsp
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll.config
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\FormularioAspNetMvc.pdb
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.SqlServer.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Helpers.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Mvc.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Razor.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\EntityFramework.SqlServer.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Razor.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Helpers.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\System.Web.Mvc.xml
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Razor.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csprojResolveAssemblyReference.cache
+E:\Joel\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.dll
+E:\Joel\formsocial-master\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.pdb
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\csc.exe
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\csc.exe.config
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\csc.rsp
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\csi.exe
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\csi.rsp
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.AppContext.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\vbc.exe
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\vbc.exe.config
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\vbc.rsp
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll.config
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\FormularioAspNetMvc.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\FormularioAspNetMvc.pdb
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\EntityFramework.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Helpers.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Mvc.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Razor.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\EntityFramework.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Razor.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Helpers.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\System.Web.Mvc.xml
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csprojAssemblyReference.cache
+C:\Users\Vector\Downloads\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csproj.CoreCompileInputs.cache
+C:\Users\Vector\Downloads\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.csproj.CopyComplete
+C:\Users\Vector\Downloads\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.dll
+C:\Users\Vector\Downloads\FormularioAspNetMvc\obj\Debug\FormularioAspNetMvc.pdb
